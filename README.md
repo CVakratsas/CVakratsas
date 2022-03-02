@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @CVakratsas
-- 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Java GUI using swing
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hello there, I'm Constantinos
+- 👨‍🎓 I'm currently a university student and I study computer science
 - 📫 You can reach me at --> c.vakratsas@gmail.com <--
-
-<!---
-CVakratsas/CVakratsas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
