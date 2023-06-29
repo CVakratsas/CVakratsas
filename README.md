@@ -1,5 +1,8 @@
-![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
+<!-- ![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
+<div align="center">
+  <img src="https://github.com/CVakratsas/CVakratsas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+<!-- ![Snake animation](https://github.com/CVakratsas/CVakratsas/blob/output/github-contribution-grid-snake.svg) -->
 
 <h1 align="center">Hi 👋, I'm Constantinos Vakratsas</h1>
 <h3 align="center">A motivated and passionate undergraduated student from Greece and a future software developer</h3>
